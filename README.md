@@ -14,6 +14,9 @@ $ cd Exihibitor-RCE/
 You might need to edit json data payload in the script. To do that simply capture the request using burpsuite when comiting the changes in the config tab of exihibitor and copy pasting into the curl command in the script.
 
 ![image](https://raw.githubusercontent.com/thehunt1s0n/Exihibitor-RCE/main/media/burpsuite_capture.png)
+<div style="text-align:center;">
+  <img src="https://raw.githubusercontent.com/thehunt1s0n/Exihibitor-RCE/main/media/burpsuite_capture.png" alt="gif 1" width="400"/>
+</div>
 
 Make sure to change the javaEnvironment with the following:
 
