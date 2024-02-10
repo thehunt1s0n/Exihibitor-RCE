@@ -1,5 +1,5 @@
-# Exihibitor-RCE
-Exihibitor Web Ui 1.7.1 RCE, CVE-2019-5029
+# Exhibitor-RCE
+Exhibitor Web Ui 1.7.1 RCE, CVE-2019-5029
 
 ## Step 1:
 
